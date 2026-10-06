@@ -1,0 +1,5 @@
+1. deactivate
+2. cmd
+3. myenv\Scripts\activate       agr error aaye to     myenv\Scripts\activate
+4. Streamlit run app.py
+  
